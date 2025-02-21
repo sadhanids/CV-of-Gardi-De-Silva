@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gardi Lamahewage Sadhani Malsha De Silva - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header {
+            background-color: #3498db; /* A nice blue */
+            color: #fff;
+            padding: 20px;
+            text-align: left;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        header p {
+            margin: 5px 0;
+        }
+
+        .section {
+            margin-top: 20px;
+        }
+
+        .section h2 {
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+            color: #3498db;
+        }
+
+        .section ul {
+            padding-left: 20px;
+            list-style-type: disc;
+        }
+
+        .section li {
+            margin-bottom: 5px;
+        }
+
+        .experience {
+            margin-bottom: 20px;
+        }
+
+        .experience h3 {
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .experience p {
+            margin: 0;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 1px solid #ccc;
+            color: #777;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                width: 95%;
+            }
+
+            header h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Gardi Lamahewage Sadhani Malsha De Silva</h1>
+            <p>Flat No 01, Building 37, Street No 820, Zone 42, Al Hilal, Doha, Qatar</p>
+            <p>Phone: +97433093019 | Email: sadhanids@gmail.com</p>
+        </header>
+
+        <section class="section">
+            <h2>Professional Summary</h2>
+            <p>Results-oriented finance and procurement professional with 7+ years of experience driving cost savings, process improvements, and efficient operations. Expertise in budgeting, financial analysis, and supplier negotiations. Seeking a challenging role where analytical skills and experience can contribute to organizational success.</p>
+        </section>
+
+        <section class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Budgeting and Financial Analysis</li>
+                <li>Procurement and Supplier Negotiation</li>
+                <li>Cost Savings and Efficiency Improvement</li>
+                <li>SAP ERP and Infor ERP Systems</li>
+                <li>Microsoft Office Suite</li>
+                <li>Communication and Interpersonal Skills</li>
+                <li>Problem-Solving and Multitasking</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Experience</h2>
+
+            <div class="experience">
+                <h3>Full Time Carer and Household Manager – Self-Employed</h3>
+                <p>05/2021 to Present</p>
+                <ul>
+                    <li>Provided intensive care for a three-year-old with autism, requiring specialized attention.</li>
+                    <li>Researched and applied knowledge of autism spectrum disorder and neurodiversity.</li>
+                    <li>Engaged with social media communities to exchange parenting strategies and solutions.</li>
+                    <li>Managed household budget, identifying cost-saving measures.</li>
+                </ul>
+            </div>
+
+            <div class="experience">
+                <h3>Student Affairs Coordinator – Genius Group of Global – IIMTS Doha, Qatar</h3>
+                <p>11/2020 to 04/2021</p>
+                <ul>
+                    <li>Developed new business opportunities, leading to increased sales and clientele.</li>
+                    <li>Created product briefs to align with client needs.</li>
+                    <li>Implemented social media marketing strategies to maximize market penetration.</li>
+                    <li>Maintained effective communication with clients through emails.</li>
+                    <li>Delivered product information and benefits to ensure sales closure.</li>
+                    <li>Achieved targets, assisted with administration, and maintained accounting records.</li>
+                    <li>Produced and collated sales reports using Microsoft Excel.</li>
+                    <li>Maintained and updated a large customer database.</li>
+                    <li>Created consolidated reports and presentations.</li>
+                    <li>Handled phone inquiries and ensured data security.</li>
+                </ul>
+            </div>
+
+            <div class="experience">
+                <h3>Taking Time Off for Medical Leave - Financial Advisor (Remote) – Media Gate Advertising Company, Sri Lanka</h3>
+                <p>04/2019 to 10/2020</p>
+                <ul>
+                    <li>Prepared financial proposals for prospective media projects.</li>
+                    <li>Provided financial insights for company decisions, measuring ROI and digital marketing impact.</li>
+                    <li>Developed financial proposals for selling digital assets, such as YouTube channels.</li>
+                </ul>
+            </div>
+
+            <div class="experience">
+                <h3>Development Officer – Ministry of Power and Energy</h3>
+                <p>02/2016 to 03/2019</p>
+                <ul>
+                    <li>Prepared and analyzed accounting records and financial statements.</li>
+                    <li>Maintained the payroll system, including calculating salaries, deductions, and resolving issues.</li>
+                    <li>Ensured accuracy of reports and procedural standards.</li>
+                    <li>Introduced and maintained computer application-based accounting systems.</li>
+                    <li>Examined operating costs, income, and expenditure.</li>
+                    <li>Liaised with financial institutions to facilitate asset procurement.</li>
+                    <li>Reported findings to management and maintained internal control systems.</li>
+                </ul>
+            </div>
+
+             <div class="experience">
+                <h3>Senior Purchasing Executive – Atlas Axillia (Pvt) Ltd</h3>
+                <p>06/2012 to 02/2016</p>
+                <ul>
+                    <li>Obtained quotations, evaluated them, and selected the best options for procurement.</li>
+                    <li>Negotiated with vendors to minimize costs while maintaining quality.</li>
+                    <li>Created Purchase Orders using SAP ERP and coordinated on-time deliveries.</li>
+                    <li>Developed proactive strategies for ordering and expediting.</li>
+                    <li>Identified alternative suppliers and conducted supplier appraisals.</li>
+                    <li>Managed inventory efficiently, minimizing stock-out and overstock situations.</li>
+                    <li>Prepared procurement reports for senior management.</li>
+                    <li>Verified invoices and managed company insurance policies.</li>
+                    <li>Participated in 5S audits.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Education</h2>
+            <p>Bachelor of Commerce (Special) Degree, University of Sri Jayewardenepura, Sri Lanka (2007-2011) - Second Class (Upper Division), GPA 3.38/4</p>
+        </section>
+
+        <section class="section">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Chartered Accountancy - Institute of Chartered Accountants of Sri Lanka (Business Level II, September 2010)</li>
+                <li>International Diploma in Document Control Management - Excellent Training Center, Doha, Qatar (October 2020)</li>
+                <li>Professional Qualifications in Document Control Management (OTHM UK)</li>
+                <li>Certificate in Essentials of Document Control Management (Qatar)</li>
+                <li>Certificate in Practical Document Control Management (Qatar)</li>
+                <li>Diploma in English - Miloda Academy of Financial Studies, Sri Lanka (March 2019)</li>
+                <li>TEFL - Certificate in Teaching English as a Foreign Language (August 2018)</li>
+                <li>The British Council of Sri Lanka - English Language Course (August 2015)</li>
+            </ul>
+        </section>
+
+       <section class="section">
+        <h2>References</h2>
+        <p>References Available Upon Request</p>
+      </section>
+
+        <footer class="footer">
+            <p>© 2024 Gardi Lamahewage Sadhani Malsha De Silva</p>
+        </footer>
+    </div>
+</body>
+</html>
